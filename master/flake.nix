@@ -9,7 +9,7 @@
   
   inputs.src-with-master.flake = false;
   inputs.src-with-master.owner = "zevv";
-  inputs.src-with-master.ref   = "refs/heads/master";
+  inputs.src-with-master.ref   = "master";
   inputs.src-with-master.repo  = "with";
   inputs.src-with-master.type  = "github";
   
